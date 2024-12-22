@@ -1,0 +1,22 @@
+{
+  "name": "hisab",
+  "version": "1.0.0",
+  "description": "\"A lightweight CLI accounting application\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khushi-Chh/hisab.js.git"
+  },
+  "keywords": [
+    "accounting"
+  ],
+  "author": "Khushi-Chh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Khushi-Chh/hisab.js/issues"
+  },
+  "homepage": "https://github.com/Khushi-Chh/hisab.js#readme"
+}
